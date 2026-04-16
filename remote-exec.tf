@@ -30,4 +30,4 @@ inline = [
 }
 
 #NOTE: While applying the changes for this infra it will have default SG so connection won't happen by default, 
-for this add all-traffic and SSH to the default-SG IN-BOUND RULES and save it. It will work properly.
+#for this add all-traffic and SSH to the default-SG IN-BOUND RULES and save it. It will work properly.
